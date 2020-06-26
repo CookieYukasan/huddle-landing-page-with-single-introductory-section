@@ -6,7 +6,7 @@
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/CookieYukasan/base-apparel-coming-soon-page/tree/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/CookieYukasan/huddle-landing-page-with-single-introductory-section/tree/master/LICENSE) for more information.
 
 ---
 
