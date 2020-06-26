@@ -2,7 +2,7 @@
     Huddle Landing Page
 </h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/fa66cb54-70e7-4ba9-b6e1-46870f8dc989/deploy-status)](https://app.netlify.com/sites/gifted-liskov-e3ecfa/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fa66cb54-70e7-4ba9-b6e1-46870f8dc989/deploy-status)](https://gifted-liskov-e3ecfa.netlify.app/)
 
 ## :memo: License
 
