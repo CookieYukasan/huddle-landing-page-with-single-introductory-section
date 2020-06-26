@@ -1,0 +1,57 @@
+@media screen and (max-width: 425px){
+  body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: hsl(257, 40%, 49%);
+    background-image: url('../images/bg-mobile.svg');
+  }
+  
+  .container{
+    padding: 10%;
+    padding-bottom: 0;
+  }
+  
+  section.illustration img{
+    width: 80vw;
+  }
+
+  main{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  header{
+    margin-left: 0;
+  }
+
+  section.introduction{
+    margin: 0;
+    text-align: center;
+    margin-top: 4vh;
+  }
+  
+  section.introduction h1{
+    font-size: 20px;
+    width: 80vw;
+  }
+  
+  section.introduction p{
+    font-size: 15px;
+    width: 80vw;
+  }
+
+  section.introduction button{
+    width: 201px;
+    height: 50px;
+  }
+
+  section.social-media{
+    position: unset;
+    margin: 45px 0px 45px 0px
+  }
+
+  footer{
+    position: unset;
+  }
+}
+
