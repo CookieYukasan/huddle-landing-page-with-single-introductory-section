@@ -63,6 +63,7 @@ section.introduction button{
   color: hsl(257, 40%, 49%);
   cursor: pointer;
   box-shadow: 8px 11px 29px -7px rgba(0,0,0,0.55);
+  background-color: white;
 }
 
 .social-media{
